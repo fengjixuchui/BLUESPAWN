@@ -1,10 +1,6 @@
-.vs
-*/x64
-*/debug
-*.pdb
-*.obj
-*.tlog
-BLUESPAWN/.vs
-BLUESPAWN/x64/*
-BLUESPAWN/Release/*
-BLUESPAWN/Debug/*
+BLUESPAWN-agent/.vs/
+BLUESPAWN-agent/build/
+BLUESPAWN-agent/artifacts/
+BLUESPAWN-server/.vs/
+BLUESPAWN-server/build/
+BLUESPAWN-server/artifacts/
